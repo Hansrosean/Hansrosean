@@ -3,7 +3,6 @@
 My name is Candra,
 
 - 🌱 I'm currently a student at Muria Kudus University
-- :gear: I use Kotlin for my main language
 - :coffee: Reach me: [Facebook](https://web.facebook.com/candra.roseahansyah.9)
 
 <p align="left">
