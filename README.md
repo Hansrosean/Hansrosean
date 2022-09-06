@@ -3,7 +3,7 @@
 My name is Candra,
 
 - 🌱 I'm currently a student at Muria Kudus University
-- :coffee: Reach me: [Facebook](https://web.facebook.com/candra.roseahansyah.9)
+- :coffee: Reach me: [Facebook](https://web.facebook.com/candra.roseahansyah.9) | [LinkedIn](https://www.linkedin.com/in/hansrosean)
 
 <p align="left">
 <a href="https://github.com/Hansrosean">
