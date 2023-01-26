@@ -3,6 +3,7 @@
 My name is Candra,
 
 - 🌱 I'm currently a student at Muria Kudus University
+- :iphone: :heart: :globe_with_meridians:	 I love Android and Web development
 - :coffee: Reach me: [Facebook](https://web.facebook.com/candra.roseahansyah.9) | [LinkedIn](https://www.linkedin.com/in/hansrosean)
 
 <p align="left">
